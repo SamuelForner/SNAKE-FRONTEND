@@ -1,0 +1,4 @@
+Pour lancer le jeu snake, lancer le fichier index.html en écrivant dans la commande 
+start index.html
+
+le fichier code avant réorganisation correspond au code avant la version clean finale 
